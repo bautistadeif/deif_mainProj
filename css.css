@@ -1,0 +1,54 @@
+body,html{
+  margin:0;
+  padding:0;
+}
+div.background{
+  height: 100%;
+  width: 100%;
+  background-image: url("pin1.gif");
+  background-size: cover;
+}
+div.header{
+  padding: 1%;
+  position:absolute;
+  top:0;
+  left:0;
+  width: 8%;
+  background-color: bisque;
+  
+}
+h1{
+  font-size: 50px;
+  color:lavender;
+  text-align: center;
+  height: 10%;
+  width: 100%;
+  padding: .5% .5%;
+}
+h2{
+  font-family: "Times New Roman",Times, serif;
+  font-size: 35px;
+  color: wheat;
+  text-align: center;
+}
+body1{
+  width:20%;
+  float:right;
+}
+div.imgsection{
+  background-image: ;
+  height: 30%;
+  width: 100%;
+}
+p{
+  text-align: center;
+  padding: 3% 3%;
+  text-justify: auto;
+  color: lavender;
+  font-weight:bold;
+}
+img{
+  height:90%;
+  width:15%;
+  border-radius: 10%;
+}
